@@ -12,7 +12,7 @@
 
 ### 🚀 About Me  
 
-- 🎓 Graduate 2024 from **IIT Bombay**, with a strong passion for **AI/ML and Software Development**  
+- 🎓 Graduate 2025 from **IIT Bombay**, with a strong passion for **AI/ML and Software Development**  
 - 💡 Worked across diverse domains — from **full stack development** to **devops**  
 - 🧠 Currently exploring **Machine learning** and intelligent agents  
 - 🌍 Entrepreneurial at heart — building products that **simplify real-world problems** (like my society automation platform *Nivaso*)  
